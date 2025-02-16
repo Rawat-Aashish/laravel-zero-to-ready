@@ -8,7 +8,7 @@ Setting them up manually took me 1-2 hours every time. And being a typical progr
 
 So here we are! I created **Laravel Zero to Ready**, a package that lets you set up all these essentials with a single command. No more wasting time—just run the setup and start coding! 🎉
 
-A huge thanks to mazimez's Laravel Hands-On repo, which helped me a lot in learning Laravel and coding this package. 🙌
+A huge thanks to [mazimez's Laravel Hands-On repo](https://github.com/mazimez/laravel-hands-on), which helped me a lot in learning Laravel and coding this package. 🙌
 
 ## 📦 What's Included?
 
