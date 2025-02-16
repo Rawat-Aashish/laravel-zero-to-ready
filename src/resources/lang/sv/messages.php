@@ -7,4 +7,5 @@ return [
     'routes_published' => 'API-rutter publicerade framgångsrikt.',
     'exception_handler_published' => 'Undantagshantering inställd.',
     'welcome' => 'Välkommen till vår applikation!',
+    'localization_test' => 'Detta är ett lokaliseringstest för engelska språket',
 ];

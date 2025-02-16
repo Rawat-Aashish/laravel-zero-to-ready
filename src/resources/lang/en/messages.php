@@ -7,4 +7,5 @@ return [
     'routes_published' => 'API routes published successfully.',
     'exception_handler_published' => 'Exception handler setup completed.',
     'welcome' => 'Welcome to our application!',
+    'localization_test' => 'This is a localization test for english langauge'
 ];
