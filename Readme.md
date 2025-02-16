@@ -22,34 +22,15 @@ From the vast pool of possible setups, I've included the most essential ones (fo
 
 To install this package in your Laravel project, follow these steps:
 
-### 1️⃣ Add the Repository (cause its not published on packagist yet)
+### 1️⃣ Require the Package
 
-Since this package is currently hosted on GitHub, add it to your project's `composer.json` file manually:
-
-```json
-"repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/Rawat-Aashish/laravel-zero-to-ready.git"
-    }
-]
-```
-
-Or you can run this command:
-
-```sh
-composer config repositories.laravel-zero-to-ready vcs https://github.com/Rawat-Aashish/laravel-zero-to-ready.git
-```
-
-### 2️⃣ Require the Package
-
-Now, install the package using Composer:
+Run the following command to install the package:
 
 ```sh
 composer require kakarot/laravel-initial-setup
 ```
 
-### 3️⃣ Run the Setup Command
+### 2️⃣ Run the Setup Command
 
 Once installed, simply run:
 
@@ -70,3 +51,4 @@ Found a bug or have an idea for improvement? Feel free to open an issue or submi
 ---
 
 Happy Coding! 🚀
+
