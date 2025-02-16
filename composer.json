@@ -1,0 +1,23 @@
+{
+    "name": "kakarot/laravel-initial-setup",
+    "description": "A package to automate Laravel localization, exception handling and API versioning",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kakarot\\LaravelInitialSetup\\": "src/",
+            "Kakarot\\LaravelInitialSetup\\Traits\\": "src/Traits/",
+            "Kakarot\\LaravelInitialSetup\\Middleware\\": "src/Middleware/"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "laravel/framework": "^11.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Kakarot\\LaravelInitialSetup\\LaravelSetupServiceProvider"
+            ]
+        }
+    }
+}
