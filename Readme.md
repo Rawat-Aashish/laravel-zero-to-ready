@@ -1,5 +1,8 @@
 # Laravel Zero to Ready
 
+**Laravel Zero to Ready** is a Laravel package that automates the initial project setup. With a single command, it configures essential features like localization, API versioning, and exception handling, saving you hours of repetitive work.
+
+
 ## 🚀 Why This Package?
 
 Every time I started a new Laravel project, I found myself doing the same initial setup—localization, API versioning, exception handling, stubs, and more. While not mandatory, these are things you always end up needing at some point.
